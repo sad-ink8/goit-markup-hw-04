@@ -387,10 +387,10 @@ header .container {
   fill: #f4f4fd;
 }
 
-.mmbr-link:hover .team-icon,
+/* .mmbr-link:hover .team-icon,
 .mmbr-link:focus .team-icon {
   fill: #ffffff;
-}
+} */
 
 /* SECTION PRODUCTS */
 
@@ -555,7 +555,7 @@ header .container {
   fill: #f4f4fd;
 }
 
-.soc-link:hover .soc-icon,
+/* .soc-link:hover .soc-icon,
 .soc-link:focus .soc-icon {
   fill: #ffffff;
-}
+} */
