@@ -182,6 +182,7 @@ header .container {
 .hero {
   padding-top: 188px;
   padding-bottom: 188px;
+  margin: 0 auto;
 }
 
 .hero-header {
@@ -317,7 +318,6 @@ header .container {
   flex-wrap: wrap;
   gap: 24px;
   align-items: center;
-  padding-bottom: 120px;
 }
 
 .team-mmbr {
